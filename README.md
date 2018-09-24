@@ -1,2 +1,2 @@
 # webdos
-Webdos Website Http Load Dos Script
+Webdos Http Load Dos Script
