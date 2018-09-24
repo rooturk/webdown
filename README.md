@@ -1,2 +1,2 @@
 # webdos
-Webdos Http Load Dos Script
+Webdos Coding By RooTürk Website Http Load Ddos Script.
