@@ -1,4 +1,3 @@
 # webdown
-WebDown Coding By RooTürk Website Http Load Dos Script.
-
+HTTP LOAD
 All Rights Reserved. 2018 www.rooturk.com
